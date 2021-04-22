@@ -1,3 +1,4 @@
+/like this
 CC = g++
 EXE_FILE = go_hunt
 
