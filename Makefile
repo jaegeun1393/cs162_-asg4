@@ -1,4 +1,3 @@
-/like this
 CC = g++
 EXE_FILE = go_hunt
 
@@ -30,3 +29,4 @@ bats.o: bats.cpp bats.hpp
 
 clean: 
 	rm -f *.o $(BIN)
+//
