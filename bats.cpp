@@ -1,7 +1,7 @@
 /*********************************************************************
 ** Program Filename: bats.cpp
 ** Author: jaegeun oh
-** Date: 3/4/2019
+** Date: 3/4/2019 //updated
 ** Description: bats implment
 ** Input: user inputs
 ** Output: Set up the bat object
